@@ -12,4 +12,5 @@ ___dataset: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/
   - quels types de séjour par hôtels 
   - montrer l'impossibilité d'utiliser la date pour prédire parce que pas assez de parmètres
   - montrer les hôtels les mieux notés 
-  
+  - démontrer pour un hotel précis comment les paramètres(sa nationalité, la durée de son séjour, .....) influencent sur le score que l'utilisateur donnerait à l'hôtel
+  - NB: Penser à expliquer les irrégularités dans les plots (pour tout le monde) 
